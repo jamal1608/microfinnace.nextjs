@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import UserInfoModal from "../components/UserInfoModal";
+import UserInfoModal from "../components/userInfoModal.jsx";
 import {
   FaGraduationCap,
   FaHome,
